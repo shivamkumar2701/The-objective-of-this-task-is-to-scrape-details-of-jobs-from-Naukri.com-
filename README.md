@@ -1,0 +1,1 @@
+# The-objective-of-this-task-is-to-scrape-details-of-jobs-from-Naukri.com-
